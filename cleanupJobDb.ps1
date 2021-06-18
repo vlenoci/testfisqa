@@ -1,0 +1,1 @@
+write-host "questa riga esce dallo script iniettato"
